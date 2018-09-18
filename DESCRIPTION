@@ -1,0 +1,8 @@
+Package: DemoBiocParallelIssue81
+Title: Demo BiocParallel issue #81
+Description: Helper package to illustrate BiocParallel issue #81
+Version: 0.0.1
+Author: The Boss Baby
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+License: Artistic-2.0
+Depends: methods, BiocParallel
